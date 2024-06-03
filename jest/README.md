@@ -13,37 +13,52 @@ Quand c'est sous forme de lien, c'est que j'ai commencé l'adaptation et qu'elle
 
 ___
 ## Jeux et Stratégie no 10
-Aventure solo via une carte.
+Aventure solo via une carte.\
+Labyrinthorrifik.
 
 ## Jeux et Stratégie no 11
-Aventure solo via une carte.
+Aventure solo via une carte.\
+Labyrotique
+
+## Jeux et Stratégie no 13
+Aventure solo via une carte.\
+Labynoir.
 
 ## Jeux et Stratégie no 14
-Aventure solo via une carte.
+Aventure solo via une carte.\
+Voyage en enfer.
 
 ## Jeux et Stratégie no 15
-Aventure solo via une carte.
+Aventure solo via une carte.\
+Chronopolis.
 
 
 ## Jeux et stratégie no 20
 
+### La montée des cendres.
+
 Page xx il y avait une Bd en exemple pour une aventure type choix (genre Livre dont vous êtes le héro).
-Titre "l'Aventure".
+### l'Aventure
 * Reprise au format HTML.
 * Reprise au fromat Twine.
 
 Page xx, 
-Lunar lander.
+### Lunar lander.
 Adapté aussi pour Amstrad CPC, dispo sur CPC Power :
+
+
 
 ## Jeux et Stratégie no 27
 Aventure solo via une carte.
 
 ## Jeux et Stratégie no 28
 Aventure solo via une carte.
+### Féodédal
+
 
 ## Jeux et Stratégie no 31
 Aventure solo.
+### Le mystère de la statue maudite
 
 
 ## Jeux et Stratégie no 33
