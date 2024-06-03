@@ -25,7 +25,7 @@ Aventure solo via une carte.
 Aventure solo via une carte.
 
 ## Jeux et Stratégie no 14
-Voyage en enfer
+### Voyage en enfer
 Aventure solo via une carte.
 
 ## Jeux et Stratégie no 15
@@ -37,40 +37,38 @@ Aventure solo via une carte.
 
 ### La montée des cendres.
 
-Page xx il y avait une Bd en exemple pour une aventure type choix (genre Livre dont vous êtes le héro).
 ### l'Aventure
-* Reprise au format HTML.
-* Reprise au fromat Twine.
+Paru sous forme de BD très simple.\
+7 passages.
 
-Page xx, 
 ### Lunar lander.
-Adapté aussi pour Amstrad CPC, dispo sur CPC Power :
-
-
+Adapté aussi pour Amstrad CPC, dispo sur CPC Power.
 
 ## Jeux et Stratégie no 27
 Aventure solo via une carte.
 
 ## Jeux et Stratégie no 28
-Aventure solo via une carte.
 ### Féodédal
+Aventure solo via une carte.
 
 
 ## Jeux et Stratégie no 31
-Aventure solo.
 ### Le mystère de la statue maudite
-
+Aventure solo. Adaptable en format JdR avec MJ.
 
 ## Jeux et Stratégie no 33
+### Patisland
 Aventure solo via une carte.
 
 ## Jeux et Stratégie no 34
+### Fantas'Île
 Aventure solo via une carte.
 
 ## Jeux et Stratégie no 35
 Aventure solo via une carte.
 
 ## Jeux et Stratégie no 36
+### Les deux tueurs de l'éditeur
 Aventure solo via une carte.
 
 ## Jeux et Stratégie no 38
