@@ -13,24 +13,24 @@ Quand c'est sous forme de lien, c'est que j'ai commencé l'adaptation et qu'elle
 
 ___
 ## Jeux et Stratégie no 10
-Aventure solo via une carte.\
-Labyrinthorrifik.
+### Labyrinthorrifik.
+Aventure solo via une carte.
 
 ## Jeux et Stratégie no 11
-Aventure solo via une carte.\
-Labyrotique
+### Labyrotique
+Aventure solo via une carte.
 
 ## Jeux et Stratégie no 13
-Aventure solo via une carte.\
-Labynoir.
+### Labynoir
+Aventure solo via une carte.
 
 ## Jeux et Stratégie no 14
-Aventure solo via une carte.\
-Voyage en enfer.
+Voyage en enfer
+Aventure solo via une carte.
 
 ## Jeux et Stratégie no 15
-Aventure solo via une carte.\
-Chronopolis.
+### Chronopolis
+Aventure solo via une carte.
 
 
 ## Jeux et stratégie no 20
