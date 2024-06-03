@@ -72,6 +72,7 @@ Aventure solo via une carte.
 Aventure solo via une carte.
 
 ## Jeux et Stratégie no 38
+### Le Simorgh
 Aventure solo via une carte.
 
 ## Jeux et Stratégie no 42
@@ -81,18 +82,23 @@ Aventure solo via une carte.
 Aventure solo via une carte.
 
 ## Jeux et Stratégie no 49
+### La tour infernale
 Aventure solo via une carte.
 
 ## Jeux et Stratégie no 51
+### Le Sceptre d'Oïgour
 Aventure solo.
 
 ## Jeux et Stratégie no 52
-Aventure solo.
+## Le héro de San José
+Aventure solo carte.
 
 ## Jeux et Stratégie no 53
+### 06 contre Kali
 Aventure solo.
 
 ## Jeux et Stratégie no 54
+### Les As de la cambriole
 Aventure solo.
 
 ___
