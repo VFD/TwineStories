@@ -1,6 +1,6 @@
 # twine-story
 
-All this story are in French.\
+All this stories are in French.\
 All adapted from french ...
 
 Les histoires suivantes sont des adaptations pour Twine de jeux publiés dans les années 1980, 1990 et 2000.
