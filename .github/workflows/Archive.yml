@@ -1,1 +1,22 @@
 
+name: Archive Repo
+
+on:
+  workflow_dispatch:
+
+jobs:
+  zip-repo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Archive repository
+        run: |
+          zip -r archive.zip . -x "*.git*"
+
+      - name: Upload archive
+        uses: actions/upload-artifact@v2
+        with:
+          name: archive
+          path: archive.zip
