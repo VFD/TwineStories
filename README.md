@@ -1,26 +1,32 @@
 # twine-story
 
 All this stories are in French.\
-All adapted from french ...
+All adapted from french...
 
-Les histoires suivantes sont des adaptations pour Twine de jeux publiés dans les années 1980, 1990 et 2000.
-Issues de diverses revues, listés ci-après.
+Les histoires suivantes sont des adaptations jeux publiés dans les années 1980, 1990 et 2000.\
+Issues de diverses revues, listés ci-après.\
+Adapté soit en "brute force HTML" soit au travers de Twine.
+
+Pour la suite, "compiler" chaque histoire en exécutable indépendant.
+
 
 ___
 ## Jeux et Stratégies
-Revue spécialisée, publiée entre xx 19xx et ...
-Puis relancée pour 9 numéro.\
-Mis dans le répertoire "JEST".
+Revue spécialisée, publiée entre xx 19xx et ...\
+Puis relancée pour 9 numéro.
+
+Contient beaucoup d'histoires.
 
 ___
 ## Elegy
 Revue musicale publiée entre 19xx et 20xx.
 XX numéros.
-Mis dans le répertoire 'Elegy'.
+
 
 ___
 ## Pirhana
-Mis dans le réperoire Pirhana.
+XX numéros connu pour ma part.\
+Relativement rare à trouver.
 
 
-
+___
