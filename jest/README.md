@@ -103,9 +103,8 @@ Aventure solo.
 
 ___
 ## Jeux et Stratégie nouvelle formule no 1
-Aventure solo.\
-Ratman contre Dr Kill.
-
+### Ratman contre Dr Kill.
+Aventure solo.
 
 
 
