@@ -1,6 +1,7 @@
 # Le Mystère de la statue maudite
 
-Petit jeu solo.
+Petit jeu solo.\
+Merci de respecter le travail des auterus et l'adaptation.
 
 ## Publication originale
 
