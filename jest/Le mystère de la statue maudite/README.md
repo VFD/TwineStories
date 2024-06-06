@@ -6,14 +6,14 @@ Petit jeu solo.
 
 Jeux et Stratègie, 198x.\
 Auteur : \
-Dessins : Didier GUERSIX\
+Dessins : Didier GUERSIX
 
 ## Adaptation
 
 Adpater sous Twine, Harlowe par Vincent DUBOIS.
 
 Conversion des dessins en base64 pour intégration direct.\
-Le projet tient donc en un seul fichier HTML.\
+Le projet tient donc en un seul fichier HTML.
 
 Version future : Application multiplateforme en exécutable.
 
