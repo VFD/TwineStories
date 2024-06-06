@@ -13,9 +13,13 @@ Pour la suite, "compiler" chaque histoire en exécutable indépendant.
 ___
 ## Jeux et Stratégies
 Revue spécialisée, publiée entre xx 19xx et ...\
-Puis relancée pour 9 numéro.
+Puis relancée pour 9 numéros.
 
-Contient beaucoup d'histoires.
+Contient beaucoup d'histoires.\
+Certaines ont des "Bugs" et nécessites des corrections.
+
+Les jeux avec cartes seront adaptés après les autres qui sont plus simple.\
+Il faut rendre la carte cliquable.
 
 ___
 ## Elegy
