@@ -1,10 +1,10 @@
 # twine-story
 
-EN : All this stories are in French.
+EN : All this stories are in French. A good way to learn French.
 
 Les histoires suivantes sont des adaptations de jeux publiés dans les années 1980, 1990 et 2000.\
 Issues de diverses revues, listés ci-après.\
-Adaptés soit en "brute force HTML" soit au travers de Twine avec Harlowe.
+Une est adaptée en "brute force HTML", les autres au travers de Twine avec Harlowe.
 
 ## Pour la suite
 
