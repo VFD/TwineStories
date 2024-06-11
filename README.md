@@ -3,12 +3,16 @@
 All this stories are in French.
 
 
-Les histoires suivantes sont des adaptations jeux publiés dans les années 1980, 1990 et 2000.\
+Les histoires suivantes sont des adaptations de jeux publiés dans les années 1980, 1990 et 2000.\
 Issues de diverses revues, listés ci-après.\
-Adapté soit en "brute force HTML" soit au travers de Twine.
+Adaptés soit en "brute force HTML" soit au travers de Twine avec Harlowe.
 
-Pour la suite, "compiler" chaque histoire en exécutable indépendant.
+___
+## Pour la suite
 
+"Compiler" chaque histoire en exécutable indépendant.
+
+Electron ou autre.
 
 ___
 ## Jeux et Stratégies
