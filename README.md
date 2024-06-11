@@ -6,6 +6,8 @@ Les histoires suivantes sont des adaptations de jeux publiés dans les années 1
 Issues de diverses revues, listés ci-après.\
 Une est adaptée en "brute force HTML", les autres au travers de Twine avec Harlowe.
 
+Bien évidement si les auteurs ne veulent pas de l'adaptation, le signaler via une "issues".
+
 ## Pour la suite
 
 "Compiler" chaque histoire en exécutable indépendant.\
