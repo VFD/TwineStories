@@ -1,7 +1,7 @@
 # twine-story
 
-All this stories are in French.\
-All adapted from french...
+All this stories are in French.
+
 
 Les histoires suivantes sont des adaptations jeux publiés dans les années 1980, 1990 et 2000.\
 Issues de diverses revues, listés ci-après.\
@@ -25,12 +25,12 @@ ___
 ## Elegy
 Revue musicale publiée entre 19xx et 20xx.
 XX numéros.
-
+En cours de recherche.
 
 ___
 ## Pirhana
 XX numéros connu pour ma part.\
 Relativement rare à trouver.
-
+En cours de recherche
 
 ___
