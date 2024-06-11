@@ -1,3 +1,0 @@
-# La Barbe du Pouvoir
-
-
