@@ -14,7 +14,7 @@ Adaptation from earlier magazines.
 | ✅ | Finished and working |
 | ⌨ | Work in progress  |
 | ❌ | Failed |
-| ❕ |The source code should be cross-checked with the published version |
+| ❕ | Story identified, need analysis for adaptation |
 | 📝 | Source code to be found or entered |
 | ★☆ | Rating (Algorithm, Interest, Gameplay) |
 
@@ -23,17 +23,27 @@ Adaptation from earlier magazines.
 ___
 ## French magazines
 
+All this stories are in french. There is no project to translate them.
+
 ### Casus Belli
+
+
+<p align="center">────────────────────</p>
 
 ### Elegy
 
 
+<p align="center">────────────────────</p>
 
 ### Grall
 
 
+<p align="center">────────────────────</p>
+
 ### Jeux & Stratégie
 
+
+<p align="center">────────────────────</p>
 
 ### Joysick
 
@@ -44,6 +54,8 @@ Old french computer magazine.\
 |-----|-------|----------|---------|--------|
 | 100 | Fait toi même ton mag. | ⌨ | Trash | ★☆☆☆☆ |
 
+
+<p align="center">────────────────────</p>
 
 ### Pirhana
 
