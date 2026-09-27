@@ -34,21 +34,24 @@ All these stories are in French. There are no plans to translate them.
 
 | No  | Title | Progress | Comment | Rating |
 |-----|-------|----------|---------|--------|
-| 20 |||||
-| 23 |||||
-| 24 |||||
-| 25 |||||
-| 26 |||||
-| 27 |||||
-| 31 |||||
-| 32 |||||
-| 33 |||||
-| 34 |||||
-| 40 |||||
-| 42 |||||
-| 44 |||||
-| HS12 |||||
-| HS15 |||||
+| 20 | Un Eternel Amour ||||
+| 23 | La nuit de Wormezza ||||
+| 24 | La nuit de Wormezza ||||
+| 25 | La nuit de Wormezza ||||
+| 26 | Sombre tableau ||||
+| 27 | Manhattan van ||||
+| 31 | La dernière nuit ||||
+| 31 | L'aura de Laura ||||
+| 32 | Rêverie ||||
+| 33 | Les pluches | ⌨ |||
+| 34 | Le fleuve de l'oubli ||||
+| 40 | Le guérisseur aveugle ||||
+| 42 | La barbe du pouvoir ||||
+| 44 | Les aventuriers de la vis perdue ||||
+| HS12 | Controle qulte ||||
+| HS12 | Quatre || Labyrôle ||
+| HS15 | Roméo et Juliette doivent s'aimer en enfer ||||
+| HS15 | La coline noire || Labyrôle ||
 
 <p align="center">────────────────────</p>
 
@@ -56,7 +59,7 @@ All these stories are in French. There are no plans to translate them.
 
 | No  | Title | Progress | Comment | Rating |
 |-----|-------|----------|---------|--------|
-
+||||||
 
 <p align="center">────────────────────</p>
 
@@ -64,7 +67,7 @@ All these stories are in French. There are no plans to translate them.
 
 | No  | Title | Progress | Comment | Rating |
 |-----|-------|----------|---------|--------|
-
+| HS3 | Etes-vous un orc ? ||||
 
 <p align="center">────────────────────</p>
 
@@ -72,7 +75,22 @@ All these stories are in French. There are no plans to translate them.
 
 | No  | Title | Progress | Comment | Rating |
 |-----|-------|----------|---------|--------|
+| 25 | Kidnapping ||||
+| 31 | Le mystère de la statue maudite | ⌨ |||
+| 38 | Le Simorgh ||||
+| 51 | Le sceptre d'Oïgour ||||
+| 52 | Le Héros de San José ||||
+| 53 | 06 contre Kali ||||
+| 54 | Les As de la cambriole | ⌨ |||
+| 57 | Terra 3194 ||||
 
+### Jeux & Stratégie Nouvelle Formule
+
+| No  | Title | Progress | Comment | Rating |
+|-----|-------|----------|---------|--------|
+|  |||||
+|  |||||
+|  |||||
 
 <p align="center">────────────────────</p>
 
