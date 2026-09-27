@@ -27,27 +27,56 @@ ___
 
 All these stories are in French. There are no plans to translate them.
 
+<p align="center">────────────────────</p>
+
+
 ### Casus Belli
 
+| No  | Title | Progress | Comment | Rating |
+|-----|-------|----------|---------|--------|
+| 20 |||||
+| 23 |||||
+| 24 |||||
+| 25 |||||
+| 26 |||||
+| 27 |||||
+| 31 |||||
+| 32 |||||
+| 33 |||||
+| 34 |||||
+| 40 |||||
+| 42 |||||
+| 44 |||||
+| HS12 |||||
+| HS15 |||||
 
 <p align="center">────────────────────</p>
 
 ### Elegy
+
+| No  | Title | Progress | Comment | Rating |
+|-----|-------|----------|---------|--------|
 
 
 <p align="center">────────────────────</p>
 
 ### Grall
 
+| No  | Title | Progress | Comment | Rating |
+|-----|-------|----------|---------|--------|
+
 
 <p align="center">────────────────────</p>
 
 ### Jeux & Stratégie
 
+| No  | Title | Progress | Comment | Rating |
+|-----|-------|----------|---------|--------|
+
 
 <p align="center">────────────────────</p>
 
-### Joysick
+### Joystick
 
 Old french computer magazine.\
 1 story known.
