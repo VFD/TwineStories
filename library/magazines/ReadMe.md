@@ -3,6 +3,8 @@
 ___
 ## Introduction
 
+Adaptation from earlier magazines.
+
 
 ___
 ## French magazines
