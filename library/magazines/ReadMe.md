@@ -6,22 +6,46 @@ ___
 Adaptation from earlier magazines.
 
 
-___
-## French magazines
-
-Work in progress.
+### Understood icons
 
 
 | Icon | Label          |
 |------|----------------|
-| ⬜️ | To do         |
-| ⌨ | Work in progress  |
 | ✅ | Finished and working |
+| ⌨ | Work in progress  |
 | ❌ | Failed |
 | ❕ |The source code should be cross-checked with the published version |
 | 📝 | Source code to be found or entered |
-| ✘ | No need to adapt. The source code is self-sufficient |
 | ★☆ | Rating (Algorithm, Interest, Gameplay) |
+
+
+
+___
+## French magazines
+
+### Casus Belli
+
+### Elegy
+
+
+
+### Grall
+
+
+### Jeux & Stratégie
+
+
+### Joysick
+
+Old french computer magazine.\
+1 story known.
+
+| No  | Title | Progress | Comment | Rating |
+|-----|-------|----------|---------|--------|
+| 100 | Fait toi même ton mag. | ⌨ | Trash | ★☆☆☆☆ |
+
+
+### Pirhana
 
 
 ___
