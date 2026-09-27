@@ -8,22 +8,24 @@ Adaptation from earlier magazines.
 
 ### Understood icons
 
-
 | Icon | Label          |
 |------|----------------|
 | ✅ | Finished and working |
+| 🛠️ | Needs improvement |
+| 🐞 | Bug bounty available |
 | ⌨ | Work in progress  |
-| ❌ | Failed |
-| ❕ | Story identified, need analysis for adaptation |
-| 📝 | Source code to be found or entered |
-| ★☆ | Rating (Algorithm, Interest, Gameplay) |
+| ❌ | Unsuccessful |
+| 📝 | Story identified; adaptation analysis needed |
+| ❕ | Source material to be found |
+| ★☆ | Rating (Interest, Gameplay) |
 
 
 
 ___
 ## French magazines
 
-All this stories are in french. There is no project to translate them.
+
+All these stories are in French. There are no plans to translate them.
 
 ### Casus Belli
 
