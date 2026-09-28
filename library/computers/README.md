@@ -27,10 +27,11 @@ ___
 
 | Title | Progress | Comment | Rating |
 |-------|----------|---------|--------|
-| Jewels of Babylon | ⌨ ||
-| Message from Andromeda | ⌨ ||
-| After Shock | 📝 ||
-| Heroes of Krane | 📝 ||
+| After Shock | 📝 | ★★☆☆☆ |
+| Jewels of Babylon | ⌨ | ★★★★☆ |
+| Heroes of Krane | 📝 | ★★★☆☆ |
+| Message from Andromeda | ⌨ |  ★★★☆☆ |
+
 
 The appeal of these games lies in their mazes,
 where the directions don’t necessarily lead you where you expect to go.\
