@@ -67,7 +67,7 @@ All these stories are in French. There are no plans to translate them.
 
 | No  | Title | Progress | Comment | Rating |
 |-----|-------|----------|---------|--------|
-| HS3 | Etes-vous un orc ? ||| ★☆☆☆☆ |
+| HS3 | Etes-vous un orc ? |||  |
 
 <p align="center">────────────────────</p>
 
@@ -75,7 +75,7 @@ All these stories are in French. There are no plans to translate them.
 
 | No  | Title | Progress | Comment | Rating |
 |-----|-------|----------|---------|--------|
-| 20 | Aventure || Comics (Demo) ||
+| 20 | Aventure || Comics (Demo) | ★☆☆☆☆ |
 | 25 | Kidnapping ||||
 | 31 | Le mystère de la statue maudite | ⌨ || ★★☆☆☆ |
 | 38 | Le Simorgh ||||
