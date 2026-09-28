@@ -43,7 +43,7 @@ All these stories are in French. There are no plans to translate them.
 | 31 | La dernière nuit ||||
 | 31 | L'aura de Laura ||||
 | 32 | Rêverie ||||
-| 33 | Les pluches | ⌨ |||
+| 33 | Les pluches | ⌨ | Multiple ending | ★★☆☆☆ |
 | 34 | Le fleuve de l'oubli ||||
 | 40 | Le guérisseur aveugle ||||
 | 42 | La barbe du pouvoir ||||
@@ -67,7 +67,7 @@ All these stories are in French. There are no plans to translate them.
 
 | No  | Title | Progress | Comment | Rating |
 |-----|-------|----------|---------|--------|
-| HS3 | Etes-vous un orc ? ||||
+| HS3 | Etes-vous un orc ? ||| ★☆☆☆☆ |
 
 <p align="center">────────────────────</p>
 
@@ -75,13 +75,14 @@ All these stories are in French. There are no plans to translate them.
 
 | No  | Title | Progress | Comment | Rating |
 |-----|-------|----------|---------|--------|
+| 20 | Aventure || Comics (Demo) ||
 | 25 | Kidnapping ||||
-| 31 | Le mystère de la statue maudite | ⌨ |||
+| 31 | Le mystère de la statue maudite | ⌨ || ★★☆☆☆ |
 | 38 | Le Simorgh ||||
 | 51 | Le sceptre d'Oïgour ||||
 | 52 | Le Héros de San José ||||
 | 53 | 06 contre Kali ||||
-| 54 | Les As de la cambriole | ⌨ |||
+| 54 | Les As de la cambriole | ⌨ | Multiplayer possible | ★★★☆☆ |
 | 57 | Terra 3194 ||||
 
 ### Jeux & Stratégie Nouvelle Formule
@@ -101,7 +102,7 @@ Old french computer magazine.\
 
 | No  | Title | Progress | Comment | Rating |
 |-----|-------|----------|---------|--------|
-| 100 | Fait toi même ton mag. | ⌨ | Trash | ★☆☆☆☆ |
+| 100 | Fait toi même ton mag. | ⌨ | Trash Talk | ★☆☆☆☆ |
 
 
 <p align="center">────────────────────</p>
