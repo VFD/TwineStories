@@ -1,12 +1,9 @@
 ---
 layout: post
 title:  "Deployement"
-date:   2026-09-30 14:00:00 +0200
 author: VFD
-categories: info
-tags: 
+categories: News
 excerpt: "Launch Twine Stories site"
-
 ---
 # Launch Twine Stories site
 
@@ -18,3 +15,4 @@ Need a lot of configuration to otain what I want.
 
 This is the first start.
 
+___
