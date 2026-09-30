@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "Deployement"
 author: VFD
-categories: News
 excerpt: "Launch Twine Stories site"
+type: News
 ---
 # Launch Twine Stories site
 
