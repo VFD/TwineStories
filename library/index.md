@@ -30,7 +30,7 @@ ___
 # The content
 
 {% assign magazines = site.pages | where_exp: "page", "page.url contains '/magazines/'" | sort: "url
-{% assign videogames = site.pages | where_exp: "page", "page.url contains '/videogames/'" | sort: "url" %}
+{% assign computers = site.pages | where_exp: "page", "page.url contains '/computers/'" | sort: "url" %}
 {% assign tips = site.pages | where_exp: "page", "page.url contains '/tips/'" | sort: "url" %}
 
 ## Magazines
