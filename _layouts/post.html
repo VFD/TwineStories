@@ -1,0 +1,66 @@
+
+---
+layout: default
+---
+
+<article class="post">
+
+  <!-- ===================== POST HEADER ===================== -->
+  <header class="post-header">
+
+    <h1 class="post-title">{{ page.title }}</h1>
+
+    <p class="post-meta">
+      <!-- Publication date -->
+      <time datetime="{{ page.date | date_to_xmlschema }}">
+        {{ page.date | date: "%B %d, %Y" }}
+      </time>
+
+      <!-- Author (optional) -->
+      {% if page.mdash; {{ page.author }}
+      {% endif %}
+
+      <!-- Categories (optional) -->
+      {% if page.categories.size > 0 %}
+        &mdash;
+        {% for cat in page.categories %}
+          <span class="post-category">{{ cat }}</span>
+        {% endfor %}
+      {% endif %}
+    </p>
+
+    <!-- Cover image (optional) -->
+    {% if page.image %}
+      <img src="{{ page.image | relative_url }}"
+           alt="{{ page.title }}"
+           class="post-cover">
+    {% endif %}
+
+  </header>
+
+  <!-- ===================== POST CONTENT ==================== -->
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+  <!-- ===================== POST FOOTER ===================== -->
+  <footer class="post-footer">
+
+    <!-- Tags -->
+    {% if page.tags.size > 0 %}
+      <div class="post-tags">
+        <strong>Tags:</strong>
+        {% for tag in page.tags %}
+          <span class="post-tag">{{ tag }}</span>
+        {% endfor %}
+      </div>
+    {% endif %}
+
+    <!-- Back to blog link -->
+    <p class="back-link">
+      <a href="{{ '/blog/' | relative_url }}">&larr; Back to Blog</a>
+    </p>
+
+  </footer>
+
+</article>

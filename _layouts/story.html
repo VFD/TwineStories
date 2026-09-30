@@ -1,0 +1,87 @@
+
+---
+layout: default
+---
+
+<!-- ===================== STORY PAGE ======================== -->
+<article class="story-page">
+
+  <header class="story-header">
+    <h1 class="story-title">{{ page.title }}</h1>
+
+    <!-- Metadata row -->
+    <p class="story-meta">
+
+      <!-- Author -->
+	  {% if page.author %}
+      {%<span class="story-author">By {{ page.author }}</span>
+      {% endif %}
+
+      <!-- Category derived from folder name -->
+      {% if page.category %}
+        &mdash;
+        <span class="story-category">{{ page.category }}</span>
+      {% endif %}
+
+      <!-- Publication date -->
+      {% if page.date %}
+        &mdash;
+        <time datetime="{{ page.date | date_to_xmlschema }}">
+          {{ page.date | date: "%B %d, %Y" }}
+        </time>
+      {% endif %}
+
+    </p>
+
+    <!-- Tags -->
+    {% if page.tags.size > 0 %}
+      <p class="story-tags">
+        {% for tag in page.tags %}
+          <span class="tag">{{ tag }}</span>
+        {% endfor %}
+      </p>
+    {% endif %}
+
+  </header>
+
+  <!-- Cover image (optional) -->
+  {% if page.image %}
+    <div class="story-cover">
+      <img src="{{ page.image | relative_url }}"
+           alt="Cover image for {{ page.title }}"
+           loading="lazy">
+    </div>
+  {% endif %}
+
+  <!-- Description -->
+  {% if page.description %}
+    <div class="story-description">
+      <p>{{ page.description }}</p>
+    </div>
+  {% endif %}
+
+  <!-- Play button -->
+  {% if page.story_url %}
+    <div class="story-play">
+      <a href="{{ page.story_url | relative_url }}"
+         target="_blank"
+         rel="noopener noreferrer"
+         class="btn-play">
+        ▶ Play this story
+      </a>
+    </div>
+  {% endif %}
+
+  <!-- Extra content from the .md sidecar body (optional notes) -->
+  {% if content != "" %}
+    <div class="story-notes">
+      {{ content }}
+    </div>
+  {% endif %}
+
+</article>
+
+<a href="{{ '/library/' | relative_url }}" class="back-link">
+  &larr; Back to Library
+</a>
+
