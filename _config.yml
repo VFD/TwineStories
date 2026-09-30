@@ -1,0 +1,59 @@
+# =============================================================
+# Site settings
+# =============================================================
+title:          "A Twine Library"
+description:    "Interactive stories and Twine development tips."
+author:         "VincentD"
+url:            "https://VFD.github.io"
+baseurl:        "/TwineStories"   # Repo name — leave "" if using user pages
+
+# =============================================================
+# Theme
+# =============================================================
+theme: minima
+minima:
+  skin: classic   # Options: classic | solarized | solarized-dark | dark
+
+# =============================================================
+# Navigation links (appear in site header)
+# =============================================================
+header_pages:
+  - index.html
+  - library/index.md
+  - blog.md
+
+# =============================================================
+# Blog / posts settings
+# =============================================================
+permalink: /blog/:year/:month/:day/:title/
+paginate:  5
+paginate_path: "/blog/page:num/"
+
+# =============================================================
+# Collections — stories are a Jekyll collection
+# =============================================================
+collections:
+  stories:
+    output: false   # We don't want Jekyll to render the .md as standalone pages
+                    # They are only used as data sources for the library index
+
+# =============================================================
+# Exclude from build — Twine HTML files are served as-is
+# Jekyll must NOT process them (they contain Liquid-like syntax)
+# =============================================================
+exclude:
+  - "library/**/*.html"   # Twine files: pass-through, no Jekyll processing
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - .github/
+
+# =============================================================
+# Plugins
+# =============================================================
+plugins:
+  - jekyll-feed          # Generates /feed.xml for RSS
+  - jekyll-seo-tag       # Auto og: and twitter: meta tags
+  - jekyll-paginate      # Blog pagination
+
+# =====[EOF]===================================================
