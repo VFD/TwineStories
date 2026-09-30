@@ -11,6 +11,5 @@ title: Blog
   **{{ post.date | date: "%d/%m/%Y" }}**
   
   {{ post.excerpt }}
-  
-  ---
+
 {% endfor %}
