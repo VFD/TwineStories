@@ -1,40 +1,24 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
-
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    <!-- jekyll-seo-tag handles og:, twitter:, description, etc. -->
-    {% seo %}
-
-    <title>
-      {%
-        {{ page.title }} | {{ site.title }}
-      {% else %}
-        {{ site.title }}
-      {% endif %}
-    </title>
-
-    <!-- Minima base stylesheet -->
-    <link rel="stylesheet"
-          href="{{ '/assets/css/main.css' | relative_url }}">
-
-    <!-- RSS feed link (jekyll-feed) -->
-    {% feed_meta %}
-
-  </head>
-
-  <body>
-
-    <!-- ===================== MAIN CONTENT ==================== -->
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </main>
-
-
-  </body>
-
+<html lang="{{ page.lang | default: site.lang | default: 'en-US' }}">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<!-- jekyll-seo-tag handles og:, twitter:, description, etc. -->
+		{% seo %}
+		<title>{{ page.title }} - {{ site.title }}</title>
+		<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
+		<!-- RSS feed link (jekyll-feed) -->
+		{% feed_meta %}
+	</head>
+	<!-- body -->
+	<body>
+		<!-- Include the header, header includ the nav -->
+		{% include header.html %}
+		<!-- Include content for all -->
+		<main>
+			{{ content }}
+		</main>
+		<!-- Include the footer -->
+		{% include footer.html %}
+	</body>
 </html>
