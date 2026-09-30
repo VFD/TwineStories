@@ -8,7 +8,7 @@ title: The Library
 Welcome.
 
 ___
-# Adaptations
+# About Adaptations
 
 ## From magazines publications
 
@@ -24,3 +24,38 @@ I'm adapting classic text adventure games from the 1980s into Twine. These were 
 For my adaptations, I enhance the original descriptions to create a richer, more immersive experience. Rather than requiring precise command syntax, I offer contextual choices based on what the player currently has in their inventory. This makes the gameplay more intuitive while preserving the spirit of the original games.
 
 The game maps remain faithful to the originals, maintaining the same layout and structure that players remember from the classic versions.
+
+
+___
+# The content
+
+{% assign magazines = site.pages | where_exp: "page", "page.url contains '/magazines/'" | sort: "url
+{% assign videogames = site.pages | where_exp: "page", "page.url contains '/videogames/'" | sort: "url" %}
+{% assign tips = site.pages | where_exp: "page", "page.url contains '/tips/'" | sort: "url" %}
+
+## Magazines
+
+{% for page in magazines %}
+  {% if page.url contains 'index' == false %}
+    {% assign title = page.title | default: page.name | replace: '.md', '' %}
+    - [{{ title }}]({{ page.url | replace: '.md', '.html' }})
+  {% endif %}
+{% endfor %}
+
+## Video Games
+
+{% for page in videogames %}
+  {% if page.url contains 'index' == false %}
+    {% assign title = page.title | default: page.name | replace: '.md', '' %}
+    - [{{ title }}]({{ page.url | replace: '.md', '.html' }})
+  {% endif %}
+{% endfor %}
+
+## Tips
+
+{% for page in tips %}
+  {% if page.url contains 'index' == false %}
+    {% assign title = page.title | default: page.name | replace: '.md', '' %}
+    - [{{ title }}]({{ page.url | replace: '.md', '.html' }})
+  {% endif %}
+{% endfor %}
