@@ -44,7 +44,7 @@ ___
 
 ## Video Games
 
-{% for page in videogames %}
+{% for page in computers %}
   {% if page.url contains 'index' == false %}
     {% assign title = page.title | default: page.name | replace: '.md', '' %}
     - [{{ title }}]({{ page.url | replace: '.md', '.html' }})
