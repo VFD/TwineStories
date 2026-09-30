@@ -19,6 +19,27 @@ Play with Twine to do something else.
 This demo is a how to to build a simple Quiz with Twine and Harlowe.\
 I Try with Snoman, ChapBook, ... but I failed any time.
 
+### Make ASCII Art
+
+Yes we can.
+
+___
+### Include in Twine
+
+Some tips to include something so that you have a single file and no need of internet to play.\
+For all, we need a trick.\
+This is the way.
+
+#### Include Image
+
+
+#### Include Font
+
+
+
+#### Include Sound
+
+
 
 
 ...
