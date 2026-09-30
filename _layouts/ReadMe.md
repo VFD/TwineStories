@@ -1,4 +1,4 @@
-# Jekyll Layout
+# Jekyll Layouts
 
 ## Introduction
 
@@ -14,3 +14,4 @@ layout: default
 
 So, your markdown use the file "default.html" to be rendered.
 
+You can create all layouts you want.
