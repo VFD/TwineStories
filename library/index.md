@@ -29,9 +29,9 @@ The game maps remain faithful to the originals, maintaining the same layout and 
 ___
 # The content
 
-{% assign magazines = site.pages | where_exp: "page", "page.url contains '/magazines/'" | sort: "url
-{% assign computers = site.pages | where_exp: "page", "page.url contains '/computers/'" | sort: "url" %}
-{% assign tips = site.pages | where_exp: "page", "page.url contains '/tips/'" | sort: "url" %}
+{% assign magazines = site.pages | where_exp: "page", "page.url contains 'magazines'" %}
+{% assign computers = site.pages | where_exp: "page", "page.url contains 'computers'" %}
+{% assign tips = site.pages | where_exp: "page", "page.url contains 'tips'" %}
 
 ## Magazines
 
@@ -42,7 +42,7 @@ ___
   {% endif %}
 {% endfor %}
 
-## Video Games
+## Computers
 
 {% for page in computers %}
   {% if page.url contains 'index' == false %}
